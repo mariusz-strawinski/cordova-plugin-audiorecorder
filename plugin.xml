@@ -22,7 +22,7 @@
             </feature>
         </config-file>
         <config-file target="*-Info.plist" parent="NSMicrophoneUsageDescription">
-            <string>This app requires microphone access to record audio.</string>
+            <string>Pour laisser un commentaire rapide sur le patient</string>
         </config-file>
         <header-file src="src/ios/AudioRecorderPlugin.h" />
         <source-file src="src/ios/AudioRecorderPlugin.m" />
